@@ -1,0 +1,236 @@
+h5 {
+    margin: 0;
+}
+
+
+.carusel1 {
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl1-967x725.jpg");
+    width: 100%;
+    height: 80vh;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.carusel2 {
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl7.jpg");
+    width: 100%;
+    height: 80vh;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.carusel3 {
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/sl4.jpg");
+    width: 100%;
+    height: 80vh;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.small_h5 {
+    margin-top: auto;
+    font-weight: 400;
+    font-size: 18px;
+    font-style: italic;
+    color: rgb(27, 116, 94);
+    line-height: 27px;
+    text-decoration: none;
+    transform: none;
+    font-family: Quicksand;
+    letter-spacing: 0;
+
+}
+
+.big_h5 {
+    margin-bottom: auto;
+    font-weight: 400;
+    font-size: 46px;
+    font-style: normal;
+    color: rgb(27, 116, 94);
+    line-height: 50.6px;
+    text-decoration: none;
+    transform: none;
+    font-family: Quicksand;
+    letter-spacing: 0;
+
+}
+
+
+
+
+
+
+
+
+.section2 {
+    width: 100%;
+    padding: 150px 25%;
+    box-sizing: border-box;
+    display: flex;
+    text-align: start;
+    justify-content: space-between;
+}
+
+.section2_text {
+    width: 40%;
+}
+
+.section2_text h5 {
+    font-weight: 400;
+    font-size: 46px;
+    font-style: normal;
+    color: rgb(12, 91, 71);
+    line-height: 50.6px;
+    text-decoration: none;
+    transform: none;
+    font-family: Quicksand;
+    letter-spacing: 0;
+}
+
+.section2_text p {
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    color: rgb(12, 91, 71);
+    line-height: 24px;
+    text-decoration: none;
+    transform: none;
+    font-family: Quicksand;
+    letter-spacing: 0;
+}
+
+.section2_text p em {
+    font-weight: 400;
+    font-size: 18px;
+    font-style: italic;
+    color: rgb(12, 91, 71);
+    line-height: 27px;
+    text-decoration: none;
+    transform: none;
+    font-family: Quicksand;
+    letter-spacing: 0;
+}
+
+.section2_img {
+    width: 49%;
+    position: relative;
+}
+
+.img2 {
+    position: absolute;
+    margin-top: 80px;
+}
+
+.img1 {
+    position: absolute;
+    margin-left: 120px;
+}
+
+
+
+
+
+
+
+.section3 {
+    padding: 100px 20%;
+    display: flex;
+    flex-direction: column;
+}
+
+.section3_body {
+    display: flex;
+    text-align: center;
+    background-color: #1b745e;
+    width: fit-content;
+}
+
+.section3_body_text {
+    width: 23%;
+    margin: auto;
+    text-align: start;
+}
+
+.section3_body_text h5 {
+    margin-bottom: auto;
+    font-weight: 400;
+    font-size: 46px;
+    font-style: normal;
+    color: white;
+    line-height: 50.6px;
+    text-decoration: none;
+    transform: none;
+    font-family: Quicksand;
+    letter-spacing: 0;
+
+}
+
+.section3_body_text p {
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    color: white;
+    line-height: 24px;
+    text-decoration: none;
+    transform: none;
+    font-family: Quicksand;
+    letter-spacing: 0;
+}
+
+.section3_body_text button {
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    color: rgb(16, 99, 78);
+    line-height: 24px;
+    text-decoration: none;
+    transform: none;
+    font-family: Quicksand;
+    letter-spacing: 0;
+    background-color: #d8e3d5;
+    width: 160px;
+    height: 46px;
+}
+
+.section3_icon span {
+    font-size: 40px;
+}
+
+.section3_icon div h5 {
+    font-weight: 400;
+    font-size: 32px;
+    font-style: normal;
+    color: rgb(27, 116, 94);
+    line-height: 35.2px;
+    text-decoration: none;
+    transform: none;
+    font-family: Quicksand;
+    letter-spacing: 0;
+}
+
+.section3_icon h5 {
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    color: rgb(27, 116, 94);
+    line-height: 24px;
+    text-decoration: none;
+    transform: none;
+    font-family: Quicksand;
+    letter-spacing: 0;
+}
